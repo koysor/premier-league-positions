@@ -1,0 +1,121 @@
+Name,Team,Predicted Position,Position Date,Played,Points,Actual Position,Penalty Points
+Colin,Tottenham,3,2019-03-17,30,61,3,0
+Colin,West Ham,9,2019-03-17,31,42,9,0
+Colin,Leicester,10,2019-03-17,31,41,10,0
+Colin,Man City,1,2019-03-17,30,74,2,1
+Colin,Liverpool,2,2019-03-17,31,76,1,1
+Colin,Man Utd,4,2019-03-17,30,58,5,1
+Colin,Chelsea,5,2019-03-17,30,57,6,1
+Colin,Bournemouth,11,2019-03-17,31,38,12,1
+Colin,Newcastle,12,2019-03-17,31,35,13,1
+Colin,Crystal Palace,13,2019-03-17,30,33,14,1
+Colin,Arsenal,6,2019-03-17,30,60,4,2
+Colin,Fulham,17,2019-03-17,31,17,19,2
+Colin,Cardiff,20,2019-03-17,30,28,18,2
+Colin,Brighton,18,2019-03-17,29,33,15,3
+Colin,Southampton,19,2019-03-17,30,30,16,3
+Colin,Everton,7,2019-03-17,31,40,11,4
+Colin,Huddersfield,16,2019-03-17,31,14,20,4
+Colin,Wolves,14,2019-03-17,30,44,7,7
+Colin,Watford,15,2019-03-17,30,43,8,7
+Colin,Burnley,8,2019-03-17,31,30,17,9
+Greg,Bournemouth,12,2019-03-17,31,38,12,0
+Greg,Man City,1,2019-03-17,30,74,2,1
+Greg,Liverpool,2,2019-03-17,31,76,1,1
+Greg,Man Utd,4,2019-03-17,30,58,5,1
+Greg,Everton,10,2019-03-17,31,40,11,1
+Greg,Leicester,9,2019-03-17,31,41,10,1
+Greg,Fulham,18,2019-03-17,31,17,19,1
+Greg,Brighton,14,2019-03-17,29,33,15,1
+Greg,Tottenham,5,2019-03-17,30,61,3,2
+Greg,Arsenal,6,2019-03-17,30,60,4,2
+Greg,Cardiff,20,2019-03-17,30,28,18,2
+Greg,Chelsea,3,2019-03-17,30,57,6,3
+Greg,Crystal Palace,17,2019-03-17,30,33,14,3
+Greg,Southampton,19,2019-03-17,30,30,16,3
+Greg,Wolves,11,2019-03-17,30,44,7,4
+Greg,Watford,13,2019-03-17,30,43,8,5
+Greg,Huddersfield,15,2019-03-17,31,14,20,5
+Greg,Newcastle,7,2019-03-17,31,35,13,6
+Greg,West Ham,16,2019-03-17,31,42,9,7
+Greg,Burnley,8,2019-03-17,31,30,17,9
+Himesh,Leicester,10,2019-03-17,31,41,10,0
+Himesh,Crystal Palace,14,2019-03-17,30,33,14,0
+Himesh,Man City,1,2019-03-17,30,74,2,1
+Himesh,Liverpool,2,2019-03-17,31,76,1,1
+Himesh,Arsenal,5,2019-03-17,30,60,4,1
+Himesh,West Ham,8,2019-03-17,31,42,9,1
+Himesh,Huddersfield,19,2019-03-17,31,14,20,1
+Himesh,Brighton,16,2019-03-17,29,33,15,1
+Himesh,Man Utd,3,2019-03-17,30,58,5,2
+Himesh,Chelsea,4,2019-03-17,30,57,6,2
+Himesh,Newcastle,11,2019-03-17,31,35,13,2
+Himesh,Wolves,9,2019-03-17,30,44,7,2
+Himesh,Southampton,18,2019-03-17,30,30,16,2
+Himesh,Cardiff,20,2019-03-17,30,28,18,2
+Himesh,Tottenham,6,2019-03-17,30,61,3,3
+Himesh,Everton,7,2019-03-17,31,40,11,4
+Himesh,Burnley,13,2019-03-17,31,30,17,4
+Himesh,Bournemouth,17,2019-03-17,31,38,12,5
+Himesh,Watford,15,2019-03-17,30,43,8,7
+Himesh,Fulham,12,2019-03-17,31,17,19,7
+Koysor,Man City,2,2019-03-17,30,74,2,0
+Koysor,Crystal Palace,14,2019-03-17,30,33,14,0
+Koysor,West Ham,8,2019-03-17,31,42,9,1
+Koysor,Southampton,17,2019-03-17,30,30,16,1
+Koysor,Liverpool,3,2019-03-17,31,76,1,2
+Koysor,Tottenham,5,2019-03-17,30,61,3,2
+Koysor,Chelsea,4,2019-03-17,30,57,6,2
+Koysor,Arsenal,6,2019-03-17,30,60,4,2
+Koysor,Leicester,12,2019-03-17,31,41,10,2
+Koysor,Bournemouth,10,2019-03-17,31,38,12,2
+Koysor,Newcastle,11,2019-03-17,31,35,13,2
+Koysor,Huddersfield,18,2019-03-17,31,14,20,2
+Koysor,Cardiff,20,2019-03-17,30,28,18,2
+Koysor,Man Utd,1,2019-03-17,30,58,5,4
+Koysor,Everton,7,2019-03-17,31,40,11,4
+Koysor,Brighton,19,2019-03-17,29,33,15,4
+Koysor,Fulham,13,2019-03-17,31,17,19,6
+Koysor,Watford,15,2019-03-17,30,43,8,7
+Koysor,Burnley,9,2019-03-17,31,30,17,8
+Koysor,Wolves,16,2019-03-17,30,44,7,9
+Nick,Crystal Palace,14,2019-03-17,30,33,14,0
+Nick,Fulham,19,2019-03-17,31,17,19,0
+Nick,Man City,1,2019-03-17,30,74,2,1
+Nick,Liverpool,2,2019-03-17,31,76,1,1
+Nick,West Ham,10,2019-03-17,31,42,9,1
+Nick,Bournemouth,11,2019-03-17,31,38,12,1
+Nick,Tottenham,5,2019-03-17,30,61,3,2
+Nick,Man Utd,3,2019-03-17,30,58,5,2
+Nick,Chelsea,4,2019-03-17,30,57,6,2
+Nick,Arsenal,6,2019-03-17,30,60,4,2
+Nick,Leicester,8,2019-03-17,31,41,10,2
+Nick,Newcastle,15,2019-03-17,31,35,13,2
+Nick,Cardiff,20,2019-03-17,30,28,18,2
+Nick,Brighton,18,2019-03-17,29,33,15,3
+Nick,Everton,7,2019-03-17,31,40,11,4
+Nick,Huddersfield,16,2019-03-17,31,14,20,4
+Nick,Burnley,12,2019-03-17,31,30,17,5
+Nick,Watford,13,2019-03-17,30,43,8,5
+Nick,Southampton,9,2019-03-17,30,30,16,7
+Nick,Wolves,17,2019-03-17,30,44,7,10
+Paul,Crystal Palace,14,2019-03-17,30,33,14,0
+Paul,Cardiff,18,2019-03-17,30,28,18,0
+Paul,Man City,1,2019-03-17,30,74,2,1
+Paul,Liverpool,2,2019-03-17,31,76,1,1
+Paul,Tottenham,4,2019-03-17,30,61,3,1
+Paul,Man Utd,6,2019-03-17,30,58,5,1
+Paul,Chelsea,5,2019-03-17,30,57,6,1
+Paul,Arsenal,3,2019-03-17,30,60,4,1
+Paul,West Ham,8,2019-03-17,31,42,9,1
+Paul,Bournemouth,11,2019-03-17,31,38,12,1
+Paul,Leicester,12,2019-03-17,31,41,10,2
+Paul,Huddersfield,17,2019-03-17,31,14,20,3
+Paul,Southampton,13,2019-03-17,30,30,16,3
+Paul,Everton,7,2019-03-17,31,40,11,4
+Paul,Fulham,15,2019-03-17,31,17,19,4
+Paul,Brighton,9,2019-03-17,29,33,15,6
+Paul,Burnley,10,2019-03-17,31,30,17,7
+Paul,Newcastle,20,2019-03-17,31,35,13,7
+Paul,Watford,16,2019-03-17,30,43,8,8
+Paul,Wolves,19,2019-03-17,30,44,7,12
